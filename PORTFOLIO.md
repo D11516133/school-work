@@ -4,8 +4,8 @@
 
 ## 線上展示
 
-- 預期網址：[https://d11516133.github.io/school-work/](https://d11516133.github.io/school-work/)
-- 狀態：GitHub Pages 已設定從 `main` / `/(root)` 部署；目前尚無部署記錄，網址仍待首次部署完成後驗證。
+- 線上網址：[https://d11516133.github.io/school-work/](https://d11516133.github.io/school-work/)
+- 狀態：已由 `main` / `/(root)` 部署，公開網址可正常載入待辦 App。
 
 ## 功能
 
